@@ -1,5 +1,4 @@
 Based off https://github.com/angular/material-start
-====
 
 # NwJS Quickstart with AngularJS
 
